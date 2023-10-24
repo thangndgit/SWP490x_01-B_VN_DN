@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "651f839cacc6f3305896f5e3",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7eb3a48dcf41941f8891",
+    "openSession": "18:30:00 11/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:48:44.775Z",
+    "updatedAt": "2023-10-06T03:48:44.775Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83aaacc6f3305896f5e9",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7ef3a48dcf41941f889c",
+    "openSession": "18:30:00 12/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:48:58.667Z",
+    "updatedAt": "2023-10-06T03:48:58.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83c3acc6f3305896f5f0",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7efaa48dcf41941f889f",
+    "openSession": "18:30:00 13/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:23.500Z",
+    "updatedAt": "2023-10-06T03:49:23.500Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83c5acc6f3305896f5f3",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7effa48dcf41941f88a2",
+    "openSession": "18:30:00 14/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:25.069Z",
+    "updatedAt": "2023-10-06T03:49:25.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83c6acc6f3305896f5f6",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f04a48dcf41941f88a5",
+    "openSession": "18:30:00 15/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:26.443Z",
+    "updatedAt": "2023-10-06T03:49:26.443Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83c8acc6f3305896f5f9",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f07a48dcf41941f88a8",
+    "openSession": "18:30:00 16/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:28.570Z",
+    "updatedAt": "2023-10-06T03:49:28.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83c9acc6f3305896f5fc",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f0aa48dcf41941f88ab",
+    "openSession": "18:30:00 17/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:29.883Z",
+    "updatedAt": "2023-10-06T03:49:29.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83cbacc6f3305896f5ff",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f0ca48dcf41941f88ae",
+    "openSession": "18:30:00 18/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:31.264Z",
+    "updatedAt": "2023-10-06T03:49:31.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83ccacc6f3305896f602",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f0ea48dcf41941f88b1",
+    "openSession": "18:30:00 19/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:32.843Z",
+    "updatedAt": "2023-10-06T03:49:32.843Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83ceacc6f3305896f605",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f11a48dcf41941f88b4",
+    "openSession": "18:30:00 20/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:34.766Z",
+    "updatedAt": "2023-10-06T03:49:34.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83d0acc6f3305896f608",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f13a48dcf41941f88b7",
+    "openSession": "18:30:00 21/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:36.198Z",
+    "updatedAt": "2023-10-06T03:49:36.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83d1acc6f3305896f60b",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f14a48dcf41941f88ba",
+    "openSession": "18:30:00 22/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:37.366Z",
+    "updatedAt": "2023-10-06T03:49:37.366Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83d2acc6f3305896f60e",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f16a48dcf41941f88bd",
+    "openSession": "18:30:00 23/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:38.618Z",
+    "updatedAt": "2023-10-06T03:49:38.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83d3acc6f3305896f611",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f18a48dcf41941f88c0",
+    "openSession": "18:30:00 24/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:39.721Z",
+    "updatedAt": "2023-10-06T03:49:39.721Z",
+    "__v": 0
+  },
+  {
+    "_id": "651f83d5acc6f3305896f614",
+    "user": "651eae538810eb4f8a9a7382",
+    "lotteryResult": "651f7f1aa48dcf41941f88c3",
+    "openSession": "18:30:00 25/02/2001",
+    "ticket": "123345",
+    "prizesWon": [],
+    "createdAt": "2023-10-06T03:49:41.315Z",
+    "updatedAt": "2023-10-06T03:49:41.315Z",
+    "__v": 0
+  }
+]

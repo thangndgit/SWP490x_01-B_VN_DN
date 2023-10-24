@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "651eae538810eb4f8a9a7382",
+    "name": "Admin",
+    "email": "motphutvaotran@gmail.com",
+    "password": "$2b$12$sAAV.MGymPnbwbzSuN3pVOnnzYCpNtXVMuYmMbHhb5KFoEqJ5slKW",
+    "role": "admin",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eae7d8810eb4f8a9a7385",
+    "name": "Nguyễn Văn An",
+    "email": "matitmui1@gmail.com",
+    "password": "$2b$12$UMN5DdVt9EOqUw6brMC.zeqUPPJ10k7fScNwOlTHXxLLkl/OsCP56",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eae868810eb4f8a9a7388",
+    "name": "Nguyễn Văn Bình",
+    "email": "matitmui2@gmail.com",
+    "password": "$2b$12$/QuL2k0wIVODtB7KzggSeOX78PhI0yCsKg.APOEX5gQRhtWEtefAq",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eae908810eb4f8a9a738b",
+    "name": "Nguyễn Văn Công",
+    "email": "matitmui3@gmail.com",
+    "password": "$2b$12$j/NrD.itnwPZp6zpkMeP/ebAOFIWhwR1YKtqZZys1SsZO6S3ha/iO",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eae968810eb4f8a9a738e",
+    "name": "Nguyễn Văn Dương",
+    "email": "matitmui4@gmail.com",
+    "password": "$2b$12$WDiCS65BVezkiR4h6/R7p.Q7Ku3h9xOYAtZRzqTlru9/uv.w5OAgW",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eae9c8810eb4f8a9a7391",
+    "name": "Nguyễn Văn Em",
+    "email": "matitmui5@gmail.com",
+    "password": "$2b$12$PJyPqRpoMTzaEFfpIEwUSeRXmoohZoZvkheuWH6rZyCSjy0t30zFS",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaea38810eb4f8a9a7394",
+    "name": "Nguyễn Văn Fát",
+    "email": "matitmui6@gmail.com",
+    "password": "$2b$12$cbv2J0/cjLuQEH70tXI1B.2c1jgoJm0qZQk6JOv5R2DnadS4UKl7u",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaea98810eb4f8a9a7397",
+    "name": "Nguyễn Văn Giang",
+    "email": "matitmui7@gmail.com",
+    "password": "$2b$12$D7ZwOJcx1mx9LM2CtGvphOcqBW8G8f6paiBk3PzBDAIs8fa.2oX0S",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaeb08810eb4f8a9a739a",
+    "name": "Nguyễn Văn Hải",
+    "email": "matitmui8@gmail.com",
+    "password": "$2b$12$aHVi2M6CqQwoBrhTxaG/4.WR5WXl2eMfPBl2uZ.b.JaX0fA9L0mwa",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaeba8810eb4f8a9a739d",
+    "name": "Nguyễn Văn In",
+    "email": "matitmui9@gmail.com",
+    "password": "$2b$12$RbIYZi/VA33V0yTI4T7azurCkakF9Iz.WNW0MT0KPRDucFZB/vjwC",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaec28810eb4f8a9a73a0",
+    "name": "Nguyễn Văn Jũng",
+    "email": "matitmui10@gmail.com",
+    "password": "$2b$12$wyoVl3bDzq2ODRSeq7n8/e9UW1cSzZX6IIpxpZ7H2Tw2L1U9a/2NC",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaeca8810eb4f8a9a73a3",
+    "name": "Nguyễn Văn Kiên",
+    "email": "matitmui11@gmail.com",
+    "password": "$2b$12$/9wDgKWRUDGpgEuLcYSPy.F35tcP0lUXzG.5tSEgEhnyBapMRAf8a",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaed08810eb4f8a9a73a6",
+    "name": "Nguyễn Văn Linh",
+    "email": "matitmui12@gmail.com",
+    "password": "$2b$12$vAxIYLXIF9gnCmyxkYWh7eQKIB6JuSeYVwfNlQl3Fd87dz31/b22i",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaede8810eb4f8a9a73a9",
+    "name": "Nguyễn Văn Mạnh",
+    "email": "matitmui13@gmail.com",
+    "password": "$2b$12$T94MTHKf5O3pA2PlPndI/.v4dlc6OkgzLMZLmFOgeKArS7fHHRtIK",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaee68810eb4f8a9a73ac",
+    "name": "Nguyễn Văn Nam",
+    "email": "matitmui14@gmail.com",
+    "password": "$2b$12$eXa3C6sduvBqPS9T2qvQoentLdwYktKkFewc/8B6S3UOe5G.nIxWK",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "651eaeeb8810eb4f8a9a73af",
+    "name": "Nguyễn Văn Ong",
+    "email": "matitmui15@gmail.com",
+    "password": "$2b$12$tfbWuB1sv9YGrIvbAvcLuOMzAO9S6G/qwUMnnD1A4mgcIVfsXcNHu",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  }
+]
