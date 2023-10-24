@@ -1,0 +1,128 @@
+openapi: 3.0.0
+
+info:
+  title: LotteryVN API
+  version: 1.0.0
+  description: API của website xem kết quả xổ số miền Bắc
+
+paths:
+  /api/v1/auth/login:
+    post:
+      summary: Đăng nhập người dùng
+      description: Sử dụng để đăng nhập và nhận mã thông báo xác thực.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  example: user@example.com
+                password:
+                  type: string
+                  example: secretPassword
+      responses:
+        '200':
+          description: Đăng nhập thành công
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: OK
+                  token:
+                    type: string
+                    example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+                  data:
+                    type: null
+        '401':
+          description: Sai mật khẩu hoặc tài khoản không tồn tại
+        '404':
+          description: Tài khoản không tồn tại
+
+  /api/v1/auth/register:
+    post:
+      summary: Đăng ký người dùng mới
+      description: Sử dụng để tạo tài khoản người dùng mới.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: John Doe
+                email:
+                  type: string
+                  example: newuser@example.com
+                password:
+                  type: string
+                  example: newPassword
+                role:
+                  type: string
+                  example: user
+      responses:
+        '201':
+          description: Đăng ký thành công
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: CREATED
+                  token:
+                    type: string
+                    example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+                  data:
+                    type: null
+        '409':
+          description: Email đã tồn tại
+
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        name:
+          type: string
+          description: Tên người dùng.
+          example: John Doe
+        email:
+          type: string
+          description: Địa chỉ email người dùng.
+          example: user@example.com
+        password:
+          type: string
+          description: Mật khẩu người dùng.
+          example: secretPassword
+        role:
+          type: string
+          enum:
+            - user
+            - admin
+          default: user
+          description: Quyền của người dùng (user hoặc admin).
+          example: user
+        active:
+          type: boolean
+          default: true
+          description: Trạng thái hoạt động của người dùng.
+          example: true
+
+tags:
+  - name: Authentication
+    description: APIs related to user authentication
+
+security:
+  - JWT: []
+
+servers:
+  - url: https://api.lotteryvn.com

@@ -1,0 +1,5 @@
+export { default as authController } from './auth.mjs'
+export { default as userController } from './user.mjs'
+export { default as lotteryController } from './lottery.mjs'
+export { default as lotteryResultController } from './lotteryResult.mjs'
+export { default as lotteryCheckHistoryController } from './lotteryCheckHistory.mjs'
